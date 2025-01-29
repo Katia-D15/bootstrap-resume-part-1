@@ -11,6 +11,10 @@
     border: #fff;
 }
 
+.bg-color-personal-info {
+    background-color: #f4f4f4;
+}
+
 .ui-menu-color-home {
     background-color: #e67e22;
 
